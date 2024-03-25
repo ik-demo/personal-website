@@ -65,7 +65,7 @@ footer {
     margin: 10px;
 }
 
-section {
+.about-section {
     border-right: 1px solid white;
     display: block;
     overflow: hidden;
@@ -75,4 +75,17 @@ section {
     height: 400px;
     float: left;
     margin: 0px 20px 0px;
+}
+
+.portfolio-img {
+    height: 400px;
+    float: right;
+    margin: 0px 20px 20px;
+}
+
+.portfolio-section {
+    border-top: 1px solid rgb(117, 117, 117);
+    display: block;
+    overflow: hidden;
+    padding: 20px;
 }
